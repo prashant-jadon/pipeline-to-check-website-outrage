@@ -1,0 +1,226 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:18:14 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:18:14 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:18:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:18:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:18:23] "GET / HTTP/1.1" 200 -
+INFO:root:Mon Oct 28 00:19:15 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:16 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:16 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:17 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug: * Detected change in '/Users/prashantjadon/Desktop/DEVELOPMENT BHAI/linux_project/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:19:41 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:42 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:19:46 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:46 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:46 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:47 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:50 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:50 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:51 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:51 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:54 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:54 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:55 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:55 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:59 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:59 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:19:59 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:00 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:03 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:03 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:04 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:04 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:07 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:08 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:08 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:08 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:12 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:12 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:12 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:12 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:16 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:16 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:17 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:18 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:20 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:21 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:21 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:22 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:25 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:25 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:25 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:26 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:29 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:30 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:30 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:30 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:33 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:34 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:34 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:35 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:38 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:38 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:39 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:39 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:42 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:43 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:43 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:43 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:46 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:47 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:47 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:48 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:50 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:51 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:51 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:52 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:20:54] "GET / HTTP/1.1" 200 -
+INFO:root:Mon Oct 28 00:20:55 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:55 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:55 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:56 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:20:59 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:00 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:00 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:00 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:03 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:21:04] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:21:04] "GET / HTTP/1.1" 200 -
+INFO:root:Mon Oct 28 00:21:04 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:04 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:05 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:05 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:08 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:09 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:09 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:09 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:10 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:13 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:13 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:13 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:14 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:15 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:17 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:21:17] "[33mGET /remove/http://127.0.0.1:1000 HTTP/1.1[0m" 404 -
+INFO:root:Mon Oct 28 00:21:18 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:18 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:19 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:20 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:21:21] "[33mGET /remove/http://127.0.0.1:1000 HTTP/1.1[0m" 404 -
+INFO:root:Mon Oct 28 00:21:21 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:22 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:21:23] "[33mGET /remove/http://127.0.0.1:3000 HTTP/1.1[0m" 404 -
+INFO:root:Mon Oct 28 00:21:23 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:24 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:25 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:26 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:27 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:28 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:29 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:30 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:21:30 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:23:15 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:23:15 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:23:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:23:16 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:23:16 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:23:17 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:23:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:24:24 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:24:25 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:24:25 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:24:25 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:24:26 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:24:26 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:24:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:25:15 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:15 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:16 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:16 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:16 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:25:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:25:19] "[32mGET /remove/http%253A//127.0.0.1%253A1000 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:25:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:25:21] "[32mGET /remove/http%253A//127.0.0.1%253A3000 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Oct/2024 00:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/prashantjadon/Desktop/DEVELOPMENT BHAI/linux_project/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:25:50 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:51 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:52 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:57 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:25:58 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 137-216-890
+INFO:root:Mon Oct 28 00:26:00 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:01 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:01 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:01 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:02 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:02 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:07 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:07 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:08 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:08 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:08 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:09 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:14 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:14 2024: http://127.0.0.1:1000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:15 2024: http://127.0.0.1:3000 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:15 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
+INFO:root:Mon Oct 28 00:26:16 2024: http://127.0.0.1:107700 - Status: Down (ping failed)
