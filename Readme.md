@@ -42,6 +42,11 @@ Add URLs to monitor by entering them on the main page.
 View Monitored URLs in the list on the dashboard.
 Remove URLs from monitoring as needed.
 
+or you can use amidown.sh 
+```
+chmod +x amidown.sh
+./amidown.sh [subdomain].txt
+
 Monitoring
 The application continuously checks the listed websites' availability every 5 seconds, sending notifications to Discord if any site becomes inaccessible.
 
