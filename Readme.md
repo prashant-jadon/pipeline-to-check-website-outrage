@@ -46,12 +46,13 @@ or you can use amidown.sh
 ```
 chmod +x amidown.sh
 ./amidown.sh [subdomain].txt
+```
 
 Monitoring
 The application continuously checks the listed websites' availability every 5 seconds, sending notifications to Discord if any site becomes inaccessible.
 
-Project Structure
 
+Project Structure
 ```
 website-monitor/
 ├── app.py               # Main application code
